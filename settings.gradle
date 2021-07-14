@@ -1,0 +1,2 @@
+rootProject.name = "My retrofit dev"
+include ':app'
